@@ -1,0 +1,17 @@
+{
+  "get": "fixtures",
+  "parameters": {
+    "from": "2025-10-07",
+    "to": "2025-10-08"
+  },
+  "errors": {
+    "from": "The From field need another parameter.",
+    "to": "The To field need another parameter."
+  },
+  "results": 0,
+  "paging": {
+    "current": 1,
+    "total": 1
+  },
+  "response": []
+}

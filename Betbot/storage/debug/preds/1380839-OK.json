@@ -1,0 +1,1365 @@
+{
+  "predictions": {
+    "winner": {
+      "id": 14868,
+      "name": "América W",
+      "comment": "Win or draw"
+    },
+    "win_or_draw": true,
+    "under_over": "+1.5",
+    "goals": {
+      "home": "-2.5",
+      "away": "-3.5"
+    },
+    "advice": "Combo Double chance : draw or América W and +1.5 goals",
+    "percent": {
+      "home": "10%",
+      "draw": "45%",
+      "away": "45%"
+    }
+  },
+  "league": {
+    "id": 673,
+    "name": "Liga MX Femenil",
+    "country": "Mexico",
+    "logo": "https://media.api-sports.io/football/leagues/673.png",
+    "flag": "https://media.api-sports.io/flags/mx.svg",
+    "season": 2025
+  },
+  "teams": {
+    "home": {
+      "id": 14879,
+      "name": "Monterrey W",
+      "logo": "https://media.api-sports.io/football/teams/14879.png",
+      "last_5": {
+        "played": 5,
+        "form": "47%",
+        "att": "26%",
+        "def": "74%",
+        "goals": {
+          "for": {
+            "total": 7,
+            "average": "1.4"
+          },
+          "against": {
+            "total": 7,
+            "average": "1.4"
+          }
+        }
+      },
+      "league": {
+        "form": "LWWWWLWDDLWLW",
+        "fixtures": {
+          "played": {
+            "home": 5,
+            "away": 8,
+            "total": 13
+          },
+          "wins": {
+            "home": 3,
+            "away": 4,
+            "total": 7
+          },
+          "draws": {
+            "home": 1,
+            "away": 1,
+            "total": 2
+          },
+          "loses": {
+            "home": 1,
+            "away": 3,
+            "total": 4
+          }
+        },
+        "goals": {
+          "for": {
+            "total": {
+              "home": 13,
+              "away": 15,
+              "total": 28
+            },
+            "average": {
+              "home": "2.6",
+              "away": "1.9",
+              "total": "2.2"
+            },
+            "minute": {
+              "0-15": {
+                "total": 5,
+                "percentage": "17.86%"
+              },
+              "16-30": {
+                "total": 5,
+                "percentage": "17.86%"
+              },
+              "31-45": {
+                "total": 5,
+                "percentage": "17.86%"
+              },
+              "46-60": {
+                "total": 4,
+                "percentage": "14.29%"
+              },
+              "61-75": {
+                "total": 5,
+                "percentage": "17.86%"
+              },
+              "76-90": {
+                "total": 4,
+                "percentage": "14.29%"
+              },
+              "91-105": {
+                "total": null,
+                "percentage": null
+              },
+              "106-120": {
+                "total": null,
+                "percentage": null
+              }
+            },
+            "under_over": {
+              "0.5": {
+                "over": 9,
+                "under": 4
+              },
+              "1.5": {
+                "over": 6,
+                "under": 7
+              },
+              "2.5": {
+                "over": 6,
+                "under": 7
+              },
+              "3.5": {
+                "over": 4,
+                "under": 9
+              },
+              "4.5": {
+                "over": 3,
+                "under": 10
+              }
+            }
+          },
+          "against": {
+            "total": {
+              "home": 6,
+              "away": 13,
+              "total": 19
+            },
+            "average": {
+              "home": "1.2",
+              "away": "1.6",
+              "total": "1.5"
+            },
+            "minute": {
+              "0-15": {
+                "total": 3,
+                "percentage": "13.64%"
+              },
+              "16-30": {
+                "total": 3,
+                "percentage": "13.64%"
+              },
+              "31-45": {
+                "total": 5,
+                "percentage": "22.73%"
+              },
+              "46-60": {
+                "total": 4,
+                "percentage": "18.18%"
+              },
+              "61-75": {
+                "total": 1,
+                "percentage": "4.55%"
+              },
+              "76-90": {
+                "total": 6,
+                "percentage": "27.27%"
+              },
+              "91-105": {
+                "total": null,
+                "percentage": null
+              },
+              "106-120": {
+                "total": null,
+                "percentage": null
+              }
+            },
+            "under_over": {
+              "0.5": {
+                "over": 8,
+                "under": 5
+              },
+              "1.5": {
+                "over": 5,
+                "under": 8
+              },
+              "2.5": {
+                "over": 3,
+                "under": 10
+              },
+              "3.5": {
+                "over": 3,
+                "under": 10
+              },
+              "4.5": {
+                "over": 0,
+                "under": 13
+              }
+            }
+          }
+        },
+        "biggest": {
+          "streak": {
+            "wins": 4,
+            "draws": 2,
+            "loses": 1
+          },
+          "wins": {
+            "home": "5-0",
+            "away": "0-5"
+          },
+          "loses": {
+            "home": "0-2",
+            "away": "4-0"
+          },
+          "goals": {
+            "for": {
+              "home": 5,
+              "away": 5
+            },
+            "against": {
+              "home": 2,
+              "away": 4
+            }
+          }
+        },
+        "clean_sheet": {
+          "home": 1,
+          "away": 4,
+          "total": 5
+        },
+        "failed_to_score": {
+          "home": 1,
+          "away": 3,
+          "total": 4
+        },
+        "penalty": {
+          "scored": {
+            "total": 1,
+            "percentage": "100.00%"
+          },
+          "missed": {
+            "total": 0,
+            "percentage": "0%"
+          },
+          "total": 1
+        },
+        "lineups": [],
+        "cards": {
+          "yellow": {
+            "0-15": {
+              "total": 3,
+              "percentage": "15.79%"
+            },
+            "16-30": {
+              "total": 3,
+              "percentage": "15.79%"
+            },
+            "31-45": {
+              "total": 3,
+              "percentage": "15.79%"
+            },
+            "46-60": {
+              "total": 3,
+              "percentage": "15.79%"
+            },
+            "61-75": {
+              "total": 2,
+              "percentage": "10.53%"
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": 5,
+              "percentage": "26.32%"
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "red": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": null,
+              "percentage": null
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": null,
+              "percentage": null
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          }
+        }
+      }
+    },
+    "away": {
+      "id": 14868,
+      "name": "América W",
+      "logo": "https://media.api-sports.io/football/teams/14868.png",
+      "last_5": {
+        "played": 5,
+        "form": "33%",
+        "att": "41%",
+        "def": "63%",
+        "goals": {
+          "for": {
+            "total": 11,
+            "average": "2.2"
+          },
+          "against": {
+            "total": 10,
+            "average": "2.0"
+          }
+        }
+      },
+      "league": {
+        "form": "WWWWWWWWLDLDW",
+        "fixtures": {
+          "played": {
+            "home": 8,
+            "away": 5,
+            "total": 13
+          },
+          "wins": {
+            "home": 6,
+            "away": 3,
+            "total": 9
+          },
+          "draws": {
+            "home": 1,
+            "away": 1,
+            "total": 2
+          },
+          "loses": {
+            "home": 1,
+            "away": 1,
+            "total": 2
+          }
+        },
+        "goals": {
+          "for": {
+            "total": {
+              "home": 30,
+              "away": 15,
+              "total": 45
+            },
+            "average": {
+              "home": "3.8",
+              "away": "3.0",
+              "total": "3.5"
+            },
+            "minute": {
+              "0-15": {
+                "total": 10,
+                "percentage": "22.73%"
+              },
+              "16-30": {
+                "total": 7,
+                "percentage": "15.91%"
+              },
+              "31-45": {
+                "total": 6,
+                "percentage": "13.64%"
+              },
+              "46-60": {
+                "total": 5,
+                "percentage": "11.36%"
+              },
+              "61-75": {
+                "total": 7,
+                "percentage": "15.91%"
+              },
+              "76-90": {
+                "total": 9,
+                "percentage": "20.45%"
+              },
+              "91-105": {
+                "total": null,
+                "percentage": null
+              },
+              "106-120": {
+                "total": null,
+                "percentage": null
+              }
+            },
+            "under_over": {
+              "0.5": {
+                "over": 12,
+                "under": 1
+              },
+              "1.5": {
+                "over": 12,
+                "under": 1
+              },
+              "2.5": {
+                "over": 8,
+                "under": 5
+              },
+              "3.5": {
+                "over": 4,
+                "under": 9
+              },
+              "4.5": {
+                "over": 2,
+                "under": 11
+              }
+            }
+          },
+          "against": {
+            "total": {
+              "home": 8,
+              "away": 8,
+              "total": 16
+            },
+            "average": {
+              "home": "1.0",
+              "away": "1.6",
+              "total": "1.2"
+            },
+            "minute": {
+              "0-15": {
+                "total": 1,
+                "percentage": "5.26%"
+              },
+              "16-30": {
+                "total": 6,
+                "percentage": "31.58%"
+              },
+              "31-45": {
+                "total": 2,
+                "percentage": "10.53%"
+              },
+              "46-60": {
+                "total": 3,
+                "percentage": "15.79%"
+              },
+              "61-75": {
+                "total": 3,
+                "percentage": "15.79%"
+              },
+              "76-90": {
+                "total": 4,
+                "percentage": "21.05%"
+              },
+              "91-105": {
+                "total": null,
+                "percentage": null
+              },
+              "106-120": {
+                "total": null,
+                "percentage": null
+              }
+            },
+            "under_over": {
+              "0.5": {
+                "over": 7,
+                "under": 6
+              },
+              "1.5": {
+                "over": 6,
+                "under": 7
+              },
+              "2.5": {
+                "over": 3,
+                "under": 10
+              },
+              "3.5": {
+                "over": 0,
+                "under": 13
+              },
+              "4.5": {
+                "over": 0,
+                "under": 13
+              }
+            }
+          }
+        },
+        "biggest": {
+          "streak": {
+            "wins": 8,
+            "draws": 1,
+            "loses": 1
+          },
+          "wins": {
+            "home": "11-0",
+            "away": "0-4"
+          },
+          "loses": {
+            "home": "0-2",
+            "away": "3-2"
+          },
+          "goals": {
+            "for": {
+              "home": 11,
+              "away": 4
+            },
+            "against": {
+              "home": 3,
+              "away": 3
+            }
+          }
+        },
+        "clean_sheet": {
+          "home": 4,
+          "away": 2,
+          "total": 6
+        },
+        "failed_to_score": {
+          "home": 1,
+          "away": 0,
+          "total": 1
+        },
+        "penalty": {
+          "scored": {
+            "total": 4,
+            "percentage": "100.00%"
+          },
+          "missed": {
+            "total": 0,
+            "percentage": "0%"
+          },
+          "total": 4
+        },
+        "lineups": [],
+        "cards": {
+          "yellow": {
+            "0-15": {
+              "total": 1,
+              "percentage": "7.14%"
+            },
+            "16-30": {
+              "total": 2,
+              "percentage": "14.29%"
+            },
+            "31-45": {
+              "total": 1,
+              "percentage": "7.14%"
+            },
+            "46-60": {
+              "total": 3,
+              "percentage": "21.43%"
+            },
+            "61-75": {
+              "total": 3,
+              "percentage": "21.43%"
+            },
+            "76-90": {
+              "total": 2,
+              "percentage": "14.29%"
+            },
+            "91-105": {
+              "total": 2,
+              "percentage": "14.29%"
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          },
+          "red": {
+            "0-15": {
+              "total": null,
+              "percentage": null
+            },
+            "16-30": {
+              "total": 1,
+              "percentage": "50.00%"
+            },
+            "31-45": {
+              "total": null,
+              "percentage": null
+            },
+            "46-60": {
+              "total": 1,
+              "percentage": "50.00%"
+            },
+            "61-75": {
+              "total": null,
+              "percentage": null
+            },
+            "76-90": {
+              "total": null,
+              "percentage": null
+            },
+            "91-105": {
+              "total": null,
+              "percentage": null
+            },
+            "106-120": {
+              "total": null,
+              "percentage": null
+            }
+          }
+        }
+      }
+    }
+  },
+  "comparison": {
+    "form": {
+      "home": "58%",
+      "away": "42%"
+    },
+    "att": {
+      "home": "39%",
+      "away": "61%"
+    },
+    "def": {
+      "home": "59%",
+      "away": "41%"
+    },
+    "poisson_distribution": {
+      "home": "51%",
+      "away": "49%"
+    },
+    "h2h": {
+      "home": "20%",
+      "away": "80%"
+    },
+    "goals": {
+      "home": "32%",
+      "away": "68%"
+    },
+    "total": {
+      "home": "43.2%",
+      "away": "56.8%"
+    }
+  },
+  "h2h": [
+    {
+      "fixture": {
+        "id": 1323823,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2025-02-11T02:00:00+00:00",
+        "timestamp": 1739239200,
+        "periods": {
+          "first": 1739239200,
+          "second": 1739242800
+        },
+        "venue": {
+          "id": 11624,
+          "name": "Estadio Ciudad de los Deportes",
+          "city": "D.F."
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 6
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2024,
+        "round": "Clausura - 8",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": true
+        },
+        "away": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1207510,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2024-09-24T01:00:00+00:00",
+        "timestamp": 1727139600,
+        "periods": {
+          "first": 1727139600,
+          "second": 1727143200
+        },
+        "venue": {
+          "id": 11905,
+          "name": "Estadio BBVA",
+          "city": "Guadalupe"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": 8
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2024,
+        "round": "Apertura - 11",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": false
+        },
+        "away": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 4
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 4
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 4
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1200884,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2024-05-28T02:00:00+00:00",
+        "timestamp": 1716861600,
+        "periods": {
+          "first": 1716861600,
+          "second": 1716865200
+        },
+        "venue": {
+          "id": 11905,
+          "name": "Estadio BBVA",
+          "city": "Guadalupe"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "PEN",
+          "elapsed": 120,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2023,
+        "round": "Clausura - Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": true
+        },
+        "away": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": 1,
+          "away": 0
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1200883,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2024-05-25T02:00:00+00:00",
+        "timestamp": 1716602400,
+        "periods": {
+          "first": 1716602400,
+          "second": 1716606000
+        },
+        "venue": {
+          "id": 1069,
+          "name": "Estadio Azteca",
+          "city": "D.F."
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2023,
+        "round": "Clausura - Finals",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": true
+        },
+        "away": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 1,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1151546,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2024-02-03T01:00:00+00:00",
+        "timestamp": 1706922000,
+        "periods": {
+          "first": 1706922000,
+          "second": 1706925600
+        },
+        "venue": {
+          "id": 1069,
+          "name": "Estadio Azteca",
+          "city": "D.F."
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2023,
+        "round": "Clausura - 6",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": true
+        },
+        "away": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 4,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 4,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 1041301,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-11-04T03:00:00+00:00",
+        "timestamp": 1699066800,
+        "periods": {
+          "first": 1699066800,
+          "second": 1699070400
+        },
+        "venue": {
+          "id": 11905,
+          "name": "Estadio BBVA",
+          "city": "Guadalupe"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2023,
+        "round": "Apertura - 17",
+        "standings": false
+      },
+      "teams": {
+        "home": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": true
+        },
+        "away": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": 2,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 976388,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2023-05-02T01:06:00+00:00",
+        "timestamp": 1682989560,
+        "periods": {
+          "first": 1682989560,
+          "second": 1682993160
+        },
+        "venue": {
+          "id": 11905,
+          "name": "Estadio BBVA",
+          "city": "Guadalupe"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2022,
+        "round": "Clausura - 15",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": true
+        },
+        "away": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 2,
+        "away": 0
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 0
+        },
+        "fulltime": {
+          "home": 2,
+          "away": 0
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 868479,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-09-20T00:00:00+00:00",
+        "timestamp": 1663632000,
+        "periods": {
+          "first": 1663632000,
+          "second": 1663635600
+        },
+        "venue": {
+          "id": 7182,
+          "name": "Estadio Azteca",
+          "city": "D.F."
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2022,
+        "round": "Apertura - 12",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": false
+        },
+        "away": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 1,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 1,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 819055,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2022-01-25T01:00:00+00:00",
+        "timestamp": 1643072400,
+        "periods": {
+          "first": 1643072400,
+          "second": 1643076000
+        },
+        "venue": {
+          "id": 7182,
+          "name": "Estadio Azteca",
+          "city": "D.F."
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2021,
+        "round": "Clausura - 3",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": false
+        },
+        "away": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": true
+        }
+      },
+      "goals": {
+        "home": 0,
+        "away": 2
+      },
+      "score": {
+        "halftime": {
+          "home": 0,
+          "away": 1
+        },
+        "fulltime": {
+          "home": 0,
+          "away": 2
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    },
+    {
+      "fixture": {
+        "id": 729453,
+        "referee": null,
+        "timezone": "UTC",
+        "date": "2021-11-02T01:00:00+00:00",
+        "timestamp": 1635814800,
+        "periods": {
+          "first": 1635814800,
+          "second": 1635818400
+        },
+        "venue": {
+          "id": 11905,
+          "name": "Estadio BBVA",
+          "city": "Guadalupe"
+        },
+        "status": {
+          "long": "Match Finished",
+          "short": "FT",
+          "elapsed": 90,
+          "extra": null
+        }
+      },
+      "league": {
+        "id": 673,
+        "name": "Liga MX Femenil",
+        "country": "Mexico",
+        "logo": "https://media.api-sports.io/football/leagues/673.png",
+        "flag": "https://media.api-sports.io/flags/mx.svg",
+        "season": 2021,
+        "round": "Apertura - 14",
+        "standings": true
+      },
+      "teams": {
+        "home": {
+          "id": 14879,
+          "name": "Monterrey W",
+          "logo": "https://media.api-sports.io/football/teams/14879.png",
+          "winner": true
+        },
+        "away": {
+          "id": 14868,
+          "name": "América W",
+          "logo": "https://media.api-sports.io/football/teams/14868.png",
+          "winner": false
+        }
+      },
+      "goals": {
+        "home": 3,
+        "away": 1
+      },
+      "score": {
+        "halftime": {
+          "home": null,
+          "away": null
+        },
+        "fulltime": {
+          "home": 3,
+          "away": 1
+        },
+        "extratime": {
+          "home": null,
+          "away": null
+        },
+        "penalty": {
+          "home": null,
+          "away": null
+        }
+      }
+    }
+  ]
+}

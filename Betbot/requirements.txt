@@ -1,0 +1,10 @@
+aiohttp
+python-dotenv
+SQLAlchemy
+psycopg2-binary
+streamlit>=1.31.0
+pandas>=2.0.0
+requests>=2.31.0
+sqlalchemy>=2.0.0
+streamlit-autorefresh>=1.0.1
+python-dotenv>=1.0.0

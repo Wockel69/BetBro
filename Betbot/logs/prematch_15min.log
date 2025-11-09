@@ -1,0 +1,1028 @@
+SyntaxError: Non-UTF-8 code starting with '\x96' in file /var/www/Betbot/workers/prematch_15min.py on line 8, but no encoding declared; see https://python.org/dev/peps/pep-0263/ for details
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 131, in <module>
+  File "/var/www/Betbot/workers/prematch_15min.py", line 66, in main
+  File "/var/www/Betbot/.venv/lib/python3.10/site-packages/psycopg2/__init__.py", line 122, in connect
+    conn = _connect(dsn, connection_factory=connection_factory, **kwasync)
+psycopg2.OperationalError: connection to server on socket "/var/run/postgresql/.s.PGSQL.5432" failed: FATAL:  role "root" does not exist
+
+[TODAY] odds records: 10
+[skip edge] fx=1324296 q=0.189 p=0.209 edge=0.020 < 0.030
+[skip edge] fx=1324301 q=0.515 p=0.535 edge=0.020 < 0.030
+[skip edge] fx=1324842 q=0.333 p=0.353 edge=0.020 < 0.030
+[skip edge] fx=1324843 q=0.463 p=0.483 edge=0.020 < 0.030
+[skip edge] fx=1324844 q=0.286 p=0.306 edge=0.020 < 0.030
+[skip edge] fx=1324845 q=0.351 p=0.371 edge=0.020 < 0.030
+[skip edge] fx=1324847 q=0.505 p=0.525 edge=0.020 < 0.030
+[skip edge] fx=1324848 q=0.385 p=0.405 edge=0.020 < 0.030
+[skip edge] fx=1324849 q=0.233 p=0.253 edge=0.020 < 0.030
+[skip edge] fx=1324851 q=0.392 p=0.412 edge=0.020 < 0.030
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[skip edge] fx=1339198 q=0.613 p=0.633 edge=0.020 < 0.030
+[skip edge] fx=1342164 q=0.294 p=0.314 edge=0.020 < 0.030
+[skip edge] fx=1342166 q=0.450 p=0.470 edge=0.020 < 0.030
+[skip edge] fx=1353594 q=0.476 p=0.496 edge=0.020 < 0.030
+[skip edge] fx=1356716 q=0.472 p=0.492 edge=0.020 < 0.030
+[skip edge] fx=1374233 q=0.175 p=0.195 edge=0.020 < 0.030
+[skip edge] fx=1379424 q=0.270 p=0.290 edge=0.020 < 0.030
+[skip edge] fx=1379611 q=0.606 p=0.626 edge=0.020 < 0.030
+[skip edge] fx=1379615 q=0.398 p=0.418 edge=0.020 < 0.030
+[skip edge] fx=1380498 q=0.417 p=0.437 edge=0.020 < 0.030
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[skip edge] fx=1324296 q=0.189 p=0.209 edge=0.020 < 0.030
+[skip edge] fx=1324301 q=0.515 p=0.535 edge=0.020 < 0.030
+[skip edge] fx=1324842 q=0.333 p=0.353 edge=0.020 < 0.030
+[skip edge] fx=1324843 q=0.463 p=0.483 edge=0.020 < 0.030
+[skip edge] fx=1324844 q=0.286 p=0.306 edge=0.020 < 0.030
+[skip edge] fx=1324845 q=0.351 p=0.371 edge=0.020 < 0.030
+[skip edge] fx=1324847 q=0.505 p=0.525 edge=0.020 < 0.030
+[skip edge] fx=1324848 q=0.385 p=0.405 edge=0.020 < 0.030
+[skip edge] fx=1324849 q=0.233 p=0.253 edge=0.020 < 0.030
+[skip edge] fx=1324851 q=0.392 p=0.412 edge=0.020 < 0.030
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[skip edge] fx=1339198 q=0.613 p=0.633 edge=0.020 < 0.030
+[skip edge] fx=1341285 q=0.278 p=0.298 edge=0.020 < 0.030
+[skip edge] fx=1341287 q=0.746 p=0.766 edge=0.020 < 0.030
+[skip edge] fx=1342164 q=0.294 p=0.314 edge=0.020 < 0.030
+[skip edge] fx=1342166 q=0.450 p=0.470 edge=0.020 < 0.030
+[skip edge] fx=1353594 q=0.476 p=0.496 edge=0.020 < 0.030
+[skip edge] fx=1356716 q=0.472 p=0.492 edge=0.020 < 0.030
+[skip edge] fx=1374233 q=0.175 p=0.195 edge=0.020 < 0.030
+[skip edge] fx=1379424 q=0.255 p=0.275 edge=0.020 < 0.030
+[skip edge] fx=1379611 q=0.606 p=0.626 edge=0.020 < 0.030
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[skip edge] fx=1324296 q=0.189 p=0.209 edge=0.020 < 0.030
+[skip edge] fx=1324301 q=0.515 p=0.535 edge=0.020 < 0.030
+[skip edge] fx=1324842 q=0.333 p=0.353 edge=0.020 < 0.030
+[skip edge] fx=1324843 q=0.463 p=0.483 edge=0.020 < 0.030
+[skip edge] fx=1324844 q=0.286 p=0.306 edge=0.020 < 0.030
+[skip edge] fx=1324845 q=0.351 p=0.371 edge=0.020 < 0.030
+[skip edge] fx=1324847 q=0.505 p=0.525 edge=0.020 < 0.030
+[skip edge] fx=1324848 q=0.385 p=0.405 edge=0.020 < 0.030
+[skip edge] fx=1324849 q=0.233 p=0.253 edge=0.020 < 0.030
+[skip edge] fx=1324851 q=0.392 p=0.412 edge=0.020 < 0.030
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[skip edge] fx=1339198 q=0.613 p=0.633 edge=0.020 < 0.030
+[skip edge] fx=1341285 q=0.278 p=0.298 edge=0.020 < 0.030
+[skip edge] fx=1341287 q=0.746 p=0.766 edge=0.020 < 0.030
+[skip edge] fx=1342164 q=0.294 p=0.314 edge=0.020 < 0.030
+[skip edge] fx=1342166 q=0.450 p=0.470 edge=0.020 < 0.030
+[skip edge] fx=1353594 q=0.476 p=0.496 edge=0.020 < 0.030
+[skip edge] fx=1356716 q=0.472 p=0.492 edge=0.020 < 0.030
+[skip edge] fx=1374233 q=0.175 p=0.195 edge=0.020 < 0.030
+[skip edge] fx=1379424 q=0.255 p=0.275 edge=0.020 < 0.030
+[skip edge] fx=1379611 q=0.606 p=0.626 edge=0.020 < 0.030
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+Traceback (most recent call last):
+  File "/var/www/Betbot/workers/prematch_15min.py", line 8, in <module>
+    from lib.odds_utils import aggregate_market_odds, aggregate_over_under, aggregate_btts
+ModuleNotFoundError: No module named 'lib'
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.661 p_pred=0.581 p=0.613 edge=0.032
+[calc] fx=1341285 q=0.167 p_model=0.247 p_pred=0.167 p=0.199 edge=0.032
+[calc] fx=1341287 q=0.714 p_model=0.794 p_pred=0.714 p=0.746 edge=0.032
+[calc] fx=1342164 q=0.297 p_model=0.377 p_pred=0.297 p=0.329 edge=0.032
+[calc] fx=1342166 q=0.461 p_model=0.541 p_pred=0.461 p=0.493 edge=0.032
+[calc] fx=1353594 q=0.483 p_model=0.563 p_pred=0.483 p=0.515 edge=0.032
+[calc] fx=1355896 q=0.366 p_model=0.446 p_pred=0.366 p=0.398 edge=0.032
+[calc] fx=1355897 q=0.065 p_model=0.145 p_pred=0.065 p=0.097 edge=0.032
+[calc] fx=1356716 q=0.465 p_model=0.545 p_pred=0.465 p=0.497 edge=0.032
+[calc] fx=1356717 q=0.549 p_model=0.629 p_pred=0.549 p=0.581 edge=0.032
+[TODAY] with_books=10 with_best=10 written=10 skipped_missing=0 skipped_edge=0
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.794 p_pred=0.714 p=0.746 edge=0.032
+[calc] fx=1377944 q=0.369 p_model=0.449 p_pred=0.369 p=0.401 edge=0.032
+[calc] fx=1377951 q=0.133 p_model=0.213 p_pred=0.133 p=0.165 edge=0.032
+[calc] fx=1382358 q=0.433 p_model=0.513 p_pred=0.433 p=0.465 edge=0.032
+[calc] fx=1382359 q=0.649 p_model=0.729 p_pred=0.649 p=0.681 edge=0.032
+[calc] fx=1384529 q=0.483 p_model=0.563 p_pred=0.483 p=0.515 edge=0.032
+[calc] fx=1384753 q=0.746 p_model=0.826 p_pred=0.746 p=0.778 edge=0.032
+[calc] fx=1385157 q=0.488 p_model=0.568 p_pred=0.488 p=0.520 edge=0.032
+[calc] fx=1386033 q=0.400 p_model=0.480 p_pred=0.400 p=0.432 edge=0.032
+[calc] fx=1387236 q=0.455 p_model=0.535 p_pred=0.455 p=0.487 edge=0.032
+[TOMORROW] with_books=10 with_best=10 written=10 skipped_missing=0 skipped_edge=0
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.581 p_model=0.621 p_pred=0.591 p=0.600 edge=0.018
+[skip edge] fx=1339198 edge=0.018 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.297 p_model=0.337 p_pred=0.307 p=0.315 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.461 p_model=0.501 p_pred=0.471 p=0.479 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.366 p_model=0.406 p_pred=0.376 p=0.385 edge=0.019
+[skip edge] fx=1355896 edge=0.019 < 0.050
+[calc] fx=1355897 q=0.065 p_model=0.105 p_pred=0.075 p=0.083 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.465 p_model=0.505 p_pred=0.475 p=0.484 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.549 p_model=0.589 p_pred=0.559 p=0.568 edge=0.019
+[skip edge] fx=1356717 edge=0.019 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.599 p_model=0.639 p_pred=0.609 p=0.617 edge=0.019
+[skip edge] fx=1339198 edge=0.019 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.282 p_model=0.322 p_pred=0.292 p=0.300 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.392 p_model=0.432 p_pred=0.402 p=0.411 edge=0.018
+[skip edge] fx=1355896 edge=0.018 < 0.050
+[calc] fx=1355897 q=0.032 p_model=0.072 p_pred=0.042 p=0.051 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.535 p_model=0.575 p_pred=0.545 p=0.553 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.588 p_model=0.628 p_pred=0.598 p=0.607 edge=0.018
+[skip edge] fx=1356717 edge=0.018 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.599 p_model=0.639 p_pred=0.609 p=0.617 edge=0.019
+[skip edge] fx=1339198 edge=0.019 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.282 p_model=0.322 p_pred=0.292 p=0.300 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.392 p_model=0.432 p_pred=0.402 p=0.411 edge=0.018
+[skip edge] fx=1355896 edge=0.018 < 0.050
+[calc] fx=1355897 q=0.032 p_model=0.072 p_pred=0.042 p=0.051 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.535 p_model=0.575 p_pred=0.545 p=0.553 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.588 p_model=0.628 p_pred=0.598 p=0.607 edge=0.018
+[skip edge] fx=1356717 edge=0.018 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1384529 edge=0.019 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[calc] fx=1387236 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1387236 edge=0.019 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TODAY] odds records: 10
+[calc] fx=1339198 q=0.599 p_model=0.639 p_pred=0.609 p=0.617 edge=0.019
+[skip edge] fx=1339198 edge=0.019 < 0.050
+[calc] fx=1341285 q=0.167 p_model=0.207 p_pred=0.177 p=0.185 edge=0.018
+[skip edge] fx=1341285 edge=0.018 < 0.050
+[calc] fx=1341287 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1341287 edge=0.019 < 0.050
+[calc] fx=1342164 q=0.282 p_model=0.322 p_pred=0.292 p=0.300 edge=0.019
+[skip edge] fx=1342164 edge=0.019 < 0.050
+[calc] fx=1342166 q=0.455 p_model=0.495 p_pred=0.465 p=0.473 edge=0.019
+[skip edge] fx=1342166 edge=0.019 < 0.050
+[calc] fx=1353594 q=0.483 p_model=0.523 p_pred=0.493 p=0.502 edge=0.019
+[skip edge] fx=1353594 edge=0.019 < 0.050
+[calc] fx=1355896 q=0.392 p_model=0.432 p_pred=0.402 p=0.411 edge=0.018
+[skip edge] fx=1355896 edge=0.018 < 0.050
+[calc] fx=1355897 q=0.032 p_model=0.072 p_pred=0.042 p=0.051 edge=0.019
+[skip edge] fx=1355897 edge=0.019 < 0.050
+[calc] fx=1356716 q=0.535 p_model=0.575 p_pred=0.545 p=0.553 edge=0.018
+[skip edge] fx=1356716 edge=0.018 < 0.050
+[calc] fx=1356717 q=0.588 p_model=0.628 p_pred=0.598 p=0.607 edge=0.018
+[skip edge] fx=1356717 edge=0.018 < 0.050
+[TODAY] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
+[TOMORROW] odds records: 10
+[calc] fx=1341284 q=0.463 p_model=0.503 p_pred=0.473 p=0.481 edge=0.019
+[skip edge] fx=1341284 edge=0.019 < 0.050
+[calc] fx=1353590 q=0.714 p_model=0.754 p_pred=0.724 p=0.733 edge=0.019
+[skip edge] fx=1353590 edge=0.019 < 0.050
+[calc] fx=1377944 q=0.369 p_model=0.409 p_pred=0.379 p=0.388 edge=0.019
+[skip edge] fx=1377944 edge=0.019 < 0.050
+[calc] fx=1377951 q=0.133 p_model=0.173 p_pred=0.143 p=0.152 edge=0.019
+[skip edge] fx=1377951 edge=0.019 < 0.050
+[calc] fx=1382358 q=0.433 p_model=0.473 p_pred=0.443 p=0.451 edge=0.019
+[skip edge] fx=1382358 edge=0.019 < 0.050
+[calc] fx=1382359 q=0.649 p_model=0.689 p_pred=0.659 p=0.668 edge=0.018
+[skip edge] fx=1382359 edge=0.018 < 0.050
+[calc] fx=1384529 q=0.448 p_model=0.488 p_pred=0.458 p=0.467 edge=0.018
+[skip edge] fx=1384529 edge=0.018 < 0.050
+[calc] fx=1384753 q=0.746 p_model=0.786 p_pred=0.756 p=0.765 edge=0.018
+[skip edge] fx=1384753 edge=0.018 < 0.050
+[calc] fx=1385157 q=0.488 p_model=0.528 p_pred=0.498 p=0.506 edge=0.019
+[skip edge] fx=1385157 edge=0.019 < 0.050
+[calc] fx=1386033 q=0.400 p_model=0.440 p_pred=0.410 p=0.418 edge=0.018
+[skip edge] fx=1386033 edge=0.018 < 0.050
+[TOMORROW] with_books=10 with_best=10 written=0 skipped_missing=0 skipped_edge=10
